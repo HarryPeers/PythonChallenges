@@ -2,5 +2,77 @@
   "PythonChallenges/Age to days": {
     "tags": [],
     "entryPoint": "index.py"
+  },
+  "PythonChallenges/Morse code": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/Power calculator": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/Proft calculator": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/Triangle area": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/dict": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/directories": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/error handling": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/files": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/functions": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/lambda": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/list": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/loops": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/mixed": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/operators": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/selection": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/sum of numbers!": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/tuples": {
+    "tags": [],
+    "entryPoint": "index.py"
+  },
+  "PythonChallenges/types": {
+    "tags": [],
+    "entryPoint": "index.py"
   }
 }
